@@ -1,0 +1,15 @@
+C:\Users\VanDai\source\repos\LinQtoObject\LinQtoObject\bin\Debug\LinQtoObject.exe.config
+C:\Users\VanDai\source\repos\LinQtoObject\LinQtoObject\bin\Debug\LinQtoObject.exe
+C:\Users\VanDai\source\repos\LinQtoObject\LinQtoObject\bin\Debug\LinQtoObject.pdb
+C:\Users\VanDai\source\repos\LinQtoObject\LinQtoObject\obj\Debug\LinQtoObject.csproj.AssemblyReference.cache
+C:\Users\VanDai\source\repos\LinQtoObject\LinQtoObject\obj\Debug\MainWindow.g.cs
+C:\Users\VanDai\source\repos\LinQtoObject\LinQtoObject\obj\Debug\App.g.cs
+C:\Users\VanDai\source\repos\LinQtoObject\LinQtoObject\obj\Debug\LinQtoObject_MarkupCompile.cache
+C:\Users\VanDai\source\repos\LinQtoObject\LinQtoObject\obj\Debug\LinQtoObject_MarkupCompile.lref
+C:\Users\VanDai\source\repos\LinQtoObject\LinQtoObject\obj\Debug\MainWindow.baml
+C:\Users\VanDai\source\repos\LinQtoObject\LinQtoObject\obj\Debug\LinQtoObject.g.resources
+C:\Users\VanDai\source\repos\LinQtoObject\LinQtoObject\obj\Debug\LinQtoObject.Properties.Resources.resources
+C:\Users\VanDai\source\repos\LinQtoObject\LinQtoObject\obj\Debug\LinQtoObject.csproj.GenerateResource.cache
+C:\Users\VanDai\source\repos\LinQtoObject\LinQtoObject\obj\Debug\LinQtoObject.csproj.CoreCompileInputs.cache
+C:\Users\VanDai\source\repos\LinQtoObject\LinQtoObject\obj\Debug\LinQtoObject.exe
+C:\Users\VanDai\source\repos\LinQtoObject\LinQtoObject\obj\Debug\LinQtoObject.pdb
